@@ -1,10 +1,7 @@
-<h1>Hi 👋 I'm Beren</h1>
-
+<h1> Hi there👋 </h1> 
+<h2> It's Beren</h2>
 <h3> An Android Developer</h3>
-  <img src="./animated.gif" 
-  alt="gif" 
-  height="200"
-  width="200" />
+  <iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
   
 - 🌱 I’m currently developing **Kotlin**
 - 💬 Ask me about **Anything**
