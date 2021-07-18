@@ -4,8 +4,8 @@
 
   <img src="./animated.gif" 
   alt="gif" 
-  height="300"
-  width="300" />
+  height="100"
+  width="100" />
   
 - 🌱 I’m currently developing **Kotlin**
 - 💬 Ask me about **Anything**
