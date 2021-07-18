@@ -1,12 +1,10 @@
 <h1>Hi 👋, I'm Beren</h1>
 <h3> An Android Developer</h3>
-
   <img src="./animated.gif" 
   alt="gif" 
   height="200"
   width="200" />
-
-- 🌱 I’m currently developing **Kotlin
+- 🌱 I’m currently developing **Kotlin**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **berenkotanli@gmail.com**
 
