@@ -1,5 +1,4 @@
-<h1> Hi there :raising_hand: </h1> 
-<h2> It's Beren</h2>
+<h1> Hi there, I'm Beren :raising_hand: </h1> 
 <h3> An Android Developer :iphone: </h3>
 
   <img src="./welcome.gif" 
