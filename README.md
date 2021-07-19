@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Beren :raising_hand: </h1> 
-<h3> An Android Developer :iphone: </h3>
+<h3> An Android Developer👩🏼‍💻 </h3>
 
   <img src="./welcome.gif" 
   alt="gif" 
